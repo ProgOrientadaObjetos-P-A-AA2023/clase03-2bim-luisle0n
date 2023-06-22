@@ -25,6 +25,7 @@ public class EjecutaEstudiante {
 
         // Incio ciclo repetitivo que permite generar 10 objetos de tipo
         // EstudiantePresencial y EstudianteDistancia 
+        
         contador = 0;
         while(contador<10){
             // Se imprime mensaje en pantalla para solicitar

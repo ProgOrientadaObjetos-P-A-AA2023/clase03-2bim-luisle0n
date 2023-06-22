@@ -60,6 +60,7 @@ public class EjecutaEstudiante {
                 // Leer numeroCreds, costoCred
                 System.out.println("Ingrese el número de créditos");
                 numeroCreds = entrada.nextInt();
+                
                 System.out.println("Ingrese el costo de cada créditos");
                 costoCred = entrada.nextDouble();
                 // se hace uso de los métodos establecer para asignar valores
